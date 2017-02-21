@@ -1,0 +1,92 @@
+/* Paragraph & Typographic */
+p {
+  line-height: 28px;
+  margin-bottom: 25px;
+}
+
+.centered {
+    text-align: center;
+}
+h1{font-family: sans-serif;color: red;}
+
+ 
+/* Header Wrap */
+.header {
+  background: #1CBCAD;
+  background: url(../images/Marist.jpg) no-repeat center top;
+  padding-top:140px;
+  text-align:left;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 500px;
+  width: 100%;
+  
+ }
+
+.header h1 {
+  font-size: 35px;
+  color: white;
+}
+
+.header h3 {
+  font-size: 20px;
+  color: white;
+}
+
+.header h3 a {
+  color: #fff;
+}
+
+/* About Wrap */
+.about {
+  background: #2c3e50;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  color: white;
+} 
+
+.about h5, p {
+  color: white;
+}
+
+.about i {
+  color: white;
+  font-size: 20px;
+  padding-right: 8px;
+  vertical-align: middle;
+}
+
+.footer {
+  background: #2f2f2f;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer p {
+  color: white;
+}
+
+.footer h5 {
+  color: white;
+}
+
+.footer t {
+  font-weight: 700;
+}
+
+/* social icons: */
+.footer i {
+  padding-right: 8px;
+  /*color: #1abc9c;*/
+}
+
+/* Global Values */
+
+.desc {
+  padding-top: 50px;
+}
+
+.desc p {
+  color: #2f2f2f;
+}
+
